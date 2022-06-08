@@ -84,3 +84,10 @@
     margin: 0 0 10px 10px;
     width: 50%;
 }
+
+#create_story_form {
+    background-color: rgb(168, 110, 226);
+    border: 1px solid coral;
+    display: none;
+
+}
